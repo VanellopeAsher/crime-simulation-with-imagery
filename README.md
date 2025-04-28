@@ -1,7 +1,7 @@
 # 基于智能体的犯罪行为模拟系统
 
 本项目实现了一个基于llm agent的crime simulation系统。系统模拟了resident、criminal、police三类agent，通过在CBG级别建模agent的移动行为和criminal agent的犯罪行为，形成城市犯罪热点的预测机制模型。
-
+map_data_Chicago.pkl体积过大无法上传，请于此处获取并放置在cache文件夹下：https://cloud.tsinghua.edu.cn/d/14e43ba3e07941aaba76/
 ## 项目结构
 
 ```
