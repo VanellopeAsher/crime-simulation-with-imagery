@@ -7,8 +7,6 @@ map_data_Chicago.pkl体积过大无法上传，请于此处获取并放置在cac
 ## 项目结构
 
 ```
-│   │    ├── crime.py     # 犯罪决策模型
-│   │    ├── crime.py     # 犯罪决策模型
 ├── agent_initialization/    # 智能体初始化数据和脚本
 │   ├── citizens.json       # resident agent初始化数据
 │   ├── HRIs.json          # criminal agent初始化数据
